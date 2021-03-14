@@ -1,0 +1,9 @@
+.next
+coverage
+out
+*.css
+*.scss
+node_modules
+postcss.config.js
+tailwind.config.js
+jest.*
